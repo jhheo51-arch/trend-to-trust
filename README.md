@@ -10,8 +10,6 @@
 - **바로 보기:** [웹 포트폴리오](https://jhheo51-arch.github.io/trend-to-trust/)에서 기획부터 수정까지 보고, [제출 PDF](docs/submission/Trend-to-Trust-Brand-Marketing-Response-2026-10-09.pdf)에서 핵심 판단을 확인합니다.
 - **확인 범위:** 공개 자료와 익명 반응 5건을 바탕으로 한 개인 프로젝트입니다. 광고 성과나 토스 고객 전체의 의견을 뜻하지 않습니다.
 
-완성 카드에 반응한 5건 중 4건에서 자동 분석 기능처럼 읽혔습니다. 세 번째 카드 제목을 **“그날은 왜 주문했을까요?”**에서 **“그날의 이유는 직접 적었습니다.”**로 바꿔, 가상 인물이 직접 기록한 이유임을 드러냈습니다. [반응과 수정 판단](docs/validation/FINAL-CARD-RESULT-2026-10-09-v01.md)
-
 ## 먼저 볼 자료
 
 1. [웹 포트폴리오](https://jhheo51-arch.github.io/trend-to-trust/)에서 기획부터 수정까지의 과정을 볼 수 있습니다.
